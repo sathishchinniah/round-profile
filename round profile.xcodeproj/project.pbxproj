@@ -14,6 +14,7 @@
 		B8FB766C1BC5A19F00077E17 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B8FB766A1BC5A19F00077E17 /* LaunchScreen.storyboard */; };
 		B8FB76771BC5A19F00077E17 /* round_profileTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B8FB76761BC5A19F00077E17 /* round_profileTests.swift */; };
 		B8FB76821BC5A19F00077E17 /* round_profileUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B8FB76811BC5A19F00077E17 /* round_profileUITests.swift */; };
+		B8FB76901BC5A42700077E17 /* 1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B8FB768F1BC5A42700077E17 /* 1.jpg */; settings = {ASSET_TAGS = (); }; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		B8FB767D1BC5A19F00077E17 /* round profileUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "round profileUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		B8FB76811BC5A19F00077E17 /* round_profileUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = round_profileUITests.swift; sourceTree = "<group>"; };
 		B8FB76831BC5A19F00077E17 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B8FB768F1BC5A42700077E17 /* 1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 1.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -100,6 +102,7 @@
 				B8FB76611BC5A19F00077E17 /* AppDelegate.swift */,
 				B8FB76631BC5A19F00077E17 /* ViewController.swift */,
 				B8FB76651BC5A19F00077E17 /* Main.storyboard */,
+				B8FB768F1BC5A42700077E17 /* 1.jpg */,
 				B8FB76681BC5A19F00077E17 /* Assets.xcassets */,
 				B8FB766A1BC5A19F00077E17 /* LaunchScreen.storyboard */,
 				B8FB766D1BC5A19F00077E17 /* Info.plist */,
@@ -229,6 +232,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				B8FB766C1BC5A19F00077E17 /* LaunchScreen.storyboard in Resources */,
+				B8FB76901BC5A42700077E17 /* 1.jpg in Resources */,
 				B8FB76691BC5A19F00077E17 /* Assets.xcassets in Resources */,
 				B8FB76671BC5A19F00077E17 /* Main.storyboard in Resources */,
 			);
